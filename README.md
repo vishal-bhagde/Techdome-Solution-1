@@ -1,3 +1,14 @@
+Tasks to be performed:
+1. Fork the project repository in your personal GitHub profile.
+2. Create a pipeline such that following happens:
+Whenever code is pushed to master branch, the pipeline should build the project.
+After build is complete, application should be deployed to a public URL
+Accepted deployment locations are as follows, please use any one of the following:
+Azure
+Digital Ocean
+Heroku
+AWS
+
 # [DEPRECATED] React Server Side Rendering
 This is no longer the recommended way to approach server side rendering with React. For an all-round solution look at a starter with `next.js` or `remix`
 
