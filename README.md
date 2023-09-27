@@ -1,3 +1,7 @@
+Summary Here is a very basic frontend application template based on react available here:
+https://github.com/alexnm/react-ssr Objective of the assignment is to create a CD / CI
+pipeline using GitHub Actions or equivalent and document the process. 
+
 Tasks to be performed:
 1. Fork the project repository in your personal GitHub profile.
 2. Create a pipeline such that following happens:
